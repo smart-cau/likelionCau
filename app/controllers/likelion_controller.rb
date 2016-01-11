@@ -1,0 +1,2 @@
+class LikelionController < ApplicationController
+end

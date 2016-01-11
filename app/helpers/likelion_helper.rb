@@ -1,0 +1,2 @@
+module LikelionHelper
+end
